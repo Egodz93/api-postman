@@ -15,6 +15,35 @@ Sử dụng API giả lập từ JSONPlaceholder.
 
 URL: https://jsonplaceholder.typicode.com/
 
+Tham Số: /posts
+
+Kết Quả Mong Đợi: Gửi yêu cầu thành công
+
+Kết Quả Thực Tế: Đã gửi yêu cầu thành công
+
+Trạng Thái: Thành công
+
+Kết quả sau khi kiểm thử:
+![Screenshot (153)](https://github.com/user-attachments/assets/53de5052-841f-49ad-a9c9-065772eb3ba0)
+
+1.2. Phương Thức HTTP (GET/POST/PUT/DELETE): POST
+
+URL: https://jsonplaceholder.typicode.com/
+
+Tham Số: posts 
+
+Kết Quả Mong Đợi: Gửi yêu cầu thành công
+
+Kết Quả Thực Tế: Đã gửi yêu cầu thành công
+
+Trạng Thái: Thành công
+
+Kết quả sau khi kiểm thử:
+![Screenshot (154)](https://github.com/user-attachments/assets/7f5c24d8-7a82-4725-8982-e8c0415c839e)
+1.3. Phương Thức HTTP (GET/POST/PUT/DELETE): PUT
+
+URL: https://jsonplaceholder.typicode.com/
+
 Tham Số: posts/1
 
 Kết Quả Mong Đợi: Gửi yêu cầu thành công
@@ -24,3 +53,19 @@ Kết Quả Thực Tế: Đã gửi yêu cầu thành công
 Trạng Thái: Thành công
 
 Kết quả sau khi kiểm thử:
+![Screenshot (155)](https://github.com/user-attachments/assets/746b3a14-0888-4655-8576-c2d4c5879fbf)
+1.4. Phương Thức HTTP (GET/POST/PUT/DELETE): DELETE
+
+URL: https://jsonplaceholder.typicode.com/
+
+Tham Số: posts/1
+
+Kết Quả Mong Đợi: Gửi yêu cầu thành công
+
+Kết Quả Thực Tế: Đã gửi yêu cầu thành công
+
+Trạng Thái: Thành công
+
+Kết quả sau khi kiểm thử:
+![Screenshot (156)](https://github.com/user-attachments/assets/1e25740c-cffb-4838-a42d-7b7e8ef5e6be)
+
